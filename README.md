@@ -1,5 +1,3 @@
-# Katomaran-todo-app
-Todo Management Full Stack App for Katomaran Hackathon 2025”
 # Katomaran Todo Task Management App
 
 This is a full-stack real-time todo app built for the Katomaran Hackathon 2025.
@@ -23,9 +21,3 @@ This is a full-stack real-time todo app built for the Katomaran Hackathon 2025.
 ## 📄 Setup
 
 ### Backend
-
-```bash
-cd backend
-cp .env.example .env
-npm install
-npm start
